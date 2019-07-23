@@ -1,1 +1,1 @@
-# zip-bomb-tools
+# Various tools to generate zip-bombs
